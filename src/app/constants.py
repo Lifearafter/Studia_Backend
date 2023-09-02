@@ -1,0 +1,3 @@
+# Word Limit
+MIN_CHUNK_SIZE = 3000
+MAX_CHUNK_SIZE = 5000

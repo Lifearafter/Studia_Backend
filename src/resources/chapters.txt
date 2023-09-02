@@ -1,0 +1,1338 @@
+The company had entered bankruptcy for the second time in 12 years and, in the
+words of a Delaware court, was "a mere shell of a corporation.'
+'The president of Pepsi, Charles G. Guth, even attempted to sell Pepsi to its rival Coca-Cola, but
+Coke wanted no part of a seemingly doomed enterprise. During this period,
+Pepsi and Coke sold cola in 6-ounce bottles. To reduce costs, Guth purchased a
+large supply of recycled 12-ounce beer bottles. Initially, Pepsi priced the 12-ounce
+bottles at 10 cents, twice the price of 6-ounce Cokes. However, this strategy failed
+to boost sales. But then Guth had an idea: Why not sell 12-ounce Pepsis for the
+same price as 6-ounce Cokes? In the Depression, this was a brilliant marketing
+ploy. Pepsi's sales shot upward. By 1934 Pepsi was out of bankruptcy. Its profit
+rose to $2.1 million by 1936 and to $4.2 million by 1938. Guth's decision to undercut
+Coca-Cola saved the company.
+This example illustrates an important point. Clearly, in 1931 Pepsi's chief objec-
+tive was to increase profits so it could survive. But merely deciding to pursue this
+objective could not make it happen. Charles Guth could not just order his subordi-
+nates to increase Pepsi's profits. Like any company, Pepsi's management had no
+direct control over its profit, market share, or any of the other markers of business
+success. What Pepsi's management did control were marketing, production, and
+the administrative decisions that determined its competitive position and ultimate
+profitability.
+Pepsi's success in the 1930s can be understood in terms of a few key economic
+relationships. The most basic of these is the law of demand. The law of demand
+says that, all other things being the same, the lower the price of a product, the
+more of it consumers will purchase. Whether the increase in the number of units
+sold translates into higher sales revenues depends on the strength of the relationship
+between price and the quantity purchased. This is measured by the price elasticity of
+demand. As long as Coke did not respond to Pepsi's price cut with one of its own, we
+would expect that the demand for Pepsi would have been relatively sensitive to price,
+Z
+12 • Chapter 1 • Basic Microeconomic Principles
+or, in the language of economics, price elastic. As we will see later in this chapter,
+price-clastic demand implies that a price cut translates not only into higher unit
+sales but also into higher sales revenue. Whether Coke is better off responding to
+Pepsi's price cut depends on another relationship, that between the size of a compe-
+titor and the profitability of price matching. Because Coke had such a large share of
+the market, it was more profitable to keep its price high (letting Pepsi steal some of its
+market) than to respond with a price cut of its own.' Finally, whether Pepsi's higher
+sales revenue translates into higher profit depends on the economic relationship
+between the additional sales revenue that Pepsi's price cut generated and the
+additional cost of producing more Pepsi-Cola. That profits rose rapidly after the
+price reduction suggests that the additional sales revenue far exceeded the additional
+costs of production.
+This chapter lays out basic microeconomic tools for business strategy. Most of
+the elements that contributed to Pepsi's successful price-cutting strategy in the
+1930s will be on display here. An understanding of the language and concepts in
+this chapter will, we believe, "level the playing field," so that students with little or
+no background in microeconomics can navigate most of this book just as well as stu-
+dents with extensive economics training. The chapter has five main parts: (1) costs;
+(2) demand, prices, and revenues; (3) the theory of price and output determination
+by a profit-maximizing firm; (4) the theory of perfectly competitive markets; and
+(5) game theory.
+• * • COSTS
+A firm's profit equals its revenues minus its costs. We begin our economics primer by
+focusing on the cost side of this equation. We discuss four specific concepts in this
+section: cost functions; economic versus accounting costs; long-run versus short-
+run costs; and sunk costs.
+Cost Functions
+Total Cost Functions
+Managers are most familiar with costs when they are presented as in Tables 1.1 and 1.2,
+which show, respectively, an income statement and a statement of costs of goods man-
+ufactured for a hypothetical producer during the year 2008.* The information in these
+tables is essentially retrospective. It tells managers what happened during the past year.
+But what if management is interested in determining whether a price reduction will
+increase profits, as with Pepsi? The price drop will probably stimulate additional
+sales, so a firm needs to know how its total costs would change if it increased
+production above the previous year's level.
+This is what a total cost function tells us. It represents the relationship between a
+firm's total costs, denoted by TC, and the total amount of output it produces in a
+given time period, denoted by Q. Figure 1.1 shows a graph of a total cost function.
+For each level of output the firm might produce, the graph associates a unique
+level of total cost. Why is the association between output and total cost unique? A
+firm may currently be producing 100 units of output per year at a total cost of
+$5,000,000, but if it were to streamline its operations, it might be able to lower
+TABLE 1.1
+INCOME STATEMENT: 2008
+(1) Sales Revenue
+(2) Cost of Goods Sold
+Cost of Goods Manufactured
+Add: Finished Goods Inventory 12/31/07
+Less: Finished Goods Inventory 12/31/08
+(3) Gross Profit: (1) minus (2)
+(4) Selling and General Administrative Expenses
+(5) Income from Operations: (3) minus (4)
+Interest Expenses
+Net Income Before Taxes
+Income Taxes
+Net Income
+All amounts in thousands.
+$13,740
+$3.300
+$2,950
+$35.600
+$14,090
+521.510
+$8,540
+512,970
+$1,210
+S11,760
+$4,100
+57.660
+costs, so that those 100 units could be produced for only $4,500,000. We resolve this
+ambiguity by defining the total cost function as an efficiency relationship. It rep-
+resents the relationship between total cost and output, assuming that the firm pro-
+duces in the most efficient manner possible given its current technological
+capabilities. Of course, firms do not always produce as efficiently as they theoretically
+could.
+The substantial literature on total quality management and reengineering
+attests to the attention managers give to improving efficiency. This is why we stress
+TABLE 1.2
+STATEMENT OF COST OF GOODS MANUFACTURED: 2008
+Materials:
+Materials Purchases
+Add: Materials Inventory 12/31/07
+Less: Materials Inventory 12/31/08
+(1) Cost of Materials
+(2) Direct Labor
+Manufacturing Overhead
+Indirect Labor
+Heat, Light, and Power
+Repairs and Maintenance
+Depreciation
+Insurance
+Property Taxes
+Miscellaneous Factory Expenses
+(3) Total Manufacturing Overhead
+Total Cost of Manufacturing: (1) + (2) + (3)
+Add: Work-in-Process Inventory 12/31/07
+Less: Work-in-Process Inventory 12/31/08
+Cost of Goods Manufactured
+All amounts in thousands.
+$8,700
+$1.400
+$1,200
+$8.900
+300
+5
+§
+$200
+$1,100
+$50
+$80
+$140
+$2,670
+$13.870
+$2,100
+$2,230
+$13.740
+Z
+3
+14 • Chapter 1 • Basic Microeconomie Principles
+FIGURE 1.1
+TOTAL. COST FUNCTION
+TC(O)
+Total cost
+The total cost function TC(Q) shows the total
+costs that the firm would incur for a level of
+output Q. The total cost function is an efficiency
+relationship in that it shows the lowest possible
+total cost the firm would incur to produce a level
+of output, given the firm's technological
+capabilities and the prices of factors of
+O Output
+production, such as labor and capital.
+that the total cost function reflects the current capabilities of the firm. If the firm is
+producing as efficiently as it knows how, then the total cost function must slope
+upward: The only way to achieve more output is to use more factors of production
+(labor, machinery, materials), which will raise total costs.'
+Fixed and Variable Costs
+The information contained in the accounting statements in Tables 1.1 and 1.2 allows
+us to identify the total cost for one particular level of annual output. To map out the
+total cost function more completely, we must distinguish between fixed costs and
+variable costs. Variable costs, such as direct labor and commissions to salespeople,
+increase as output increases. Fixed costs, such as general and administrative expenses
+and property taxes, remain constant as output increases.
+Three important points should be stressed when discussing fixed and variable
+costs. First, the line dividing fixed and variable costs is often fuzzy. Some costs,
+such as maintenance or advertising and promotional expenses, may have both fixed
+and variable components. Other costs may be semifixed: fixed over certain ranges of
+output but variable over other ranges.
+For example, a beer distributor may be
+able to deliver up to 5,000 barrels of beer a week using a single truck. But when it
+must deliver between 5,000 and 10,000 barrels, it needs two trucks; between
+10,000 and 15,000, three trucks; and so forth. The cost of trucks is fixed within
+the intervals (0, 5,000), (5,000, 10,000), (10,000, 15,000), and so forth, but is variable
+between these intervals.
+Second, when we say that a cost is fixed, we mean that it is invariant to the firm's
+output. It does not mean that it cannot be affected by other dimensions of the firm's
+operations or decisions the firm might make. For example, for an electric utility, the
+cost of stringing wires to hook up houses to the local grid depends primarily on the
+number of subscribers to the system, not on the total amount of kilowatt-hours of elec-
+tricity the utility generates. Other fixed costs, such as the money spent on marketing
+promotions or advertising campaigns, arise from management decisions and can be
+eliminated should management so desire."
+Third, whether costs are fixed or variable
+depends on the time period in which decisions regarding output are contemplated.
+† shift
+ctrl
+Costs • 15
+Consider, for example, an airline that is contemplating a one-week-long fare cut.
+Its workers have already been hired, its schedule has been set, and its fleet has been
+purchased. Within a one-week period, none of these decisions can be reversed. For
+this particular decision, then, the airline should regard a significant fraction of its
+costs as fixed. By contrast, if the airline contemplates committing to a year-long
+reduction in fares, with the expectation that ticket sales will increase accordingly, sched-
+ules can be altered, planes can be leased or purchased, and workers can be hired. In this
+case, the airline should regard most of its expenses as variable. Whether the firm has the
+freedom to alter its physical capital or other elements of its operations has important
+implications for its cost structure and the nature of its decision making. This will be cov-
+ered in more detail below when we analyze the distinction between long-run and short-
+run costs.
+Average and Marginal Cost Functions
+Associated with the total cost function are two other cost functions: the average cost
+function, AC(0), and the marginal cost function, MC(0). The average cost function
+describes how the firm's average or per-unit-of-output costs vary with the amount of
+output it produces. It is given by the formula
+AC(0) = IC(0)
+o
+If total costs were directly proportional to output--for example, if they were given
+a formula, such as TC(Q) = 5Q or TC(Q) = 37,000Q, or more generally, by
+TC(Q) = cQ, where c is a constant-then average cost would be a constant. This
+is because
+AC(0) =.
+= c
+Often, however, average cost will vary with output. As Figure 1.2 shows, average cost
+may rise, fall, or remain constant as output goes up. When average cost decreases as
+output increases, there are economies of scale. When average cost increases as output
+FIGURE 1.2
+AVERAGE COST FUNCTION
+4C(Q)
+Average cost
+The average cost function AC(Q) shows the
+firm's average, or per-unit, cost for any level of
+output Q. Average costs are not necessarily the
+same at each level of output.
+O Output
+3
+16 • Chapter 1 • Basic Microeconomic Principles
+FIGURE 1.3
+ECONOMIES OF SCALE AND MINIMUM EFFICIENT SCALE
+Average cost
+This average cost function exhibits economies of
+scale at output levels up to Q. It exhibits
+constant returns to scale between Q' and Q'.
+It exhibits diseconomies of scale at output levels
+above Q'. The smallest output level at which
+economies of scale are exhausted is Q. It is thus
+known as the minimum efficient scale.
+9
+O Output
+increases, there are diseconomies of scale. When average cost remains unchanged
+with respect to output, we have constant returns to scale. A production process
+may exhibit economies of scale over one range of output and diseconomies of scale
+over another. Figure 1.3 shows an average cost function that exhibits economies of
+scale, diseconomies of scale, and constant returns to scale. Output level Q' is the
+smallest level of output at which economies of scale are exhausted and is thus
+known as the minimum efficient scale. The concepts of economies of scale and mini-
+mum efficient scale are extremely important for understanding the size and scope of
+firms and the structure of industries. We devote all of Chapter 2 to analyzing
+economies of scale.
+Marginal cost refers to the rate of change of total cost with respect to output.
+Marginal cost may be thought of as the incremental cost of producing exactly
+one more unit of output. When output is initially Q and changes by AQ units and
+one knows the total cost at each output level, marginal cost may be calculated as
+follows:
+MC(0) = :
+TC(Q + AQ) - TC(0)
+ДО
+For example, suppose when Q = 100 units, TC = $400,000, and when Q = 150 units,
+TC = $500,000. Then AQ = 50, and MC = ($500,000 - $400,000/50 = $2,000.
+Thus, total cost increases at a rate of $2,000 per unit of output when output increases
+over the range 100 to 150 units.
+Marginal cost often depends on the total volume of output. Figure 1.4 shows the
+marginal cost function associated with a particular total cost function. At low levels of
+output, such as Q', increasing output by one unit does not change total cost much, as
+reflected by the low marginal cost. At higher levels of output, such as Q', a one-unit
+increase in output has a greater impact on total cost, and the corresponding marginal
+cost is higher.
+Costs • 17
+FIGURE 1.4
+RELATIONShIP BETWEEN TOTAL COST AND MARGiNAL COST
+TC(O)
+TOO" + D
+cost
+TC(0")
+otal
+TCCO' + 1).
+Q'0'+ 1
+Q"0"+ 1
+O Output
+The marginal cost function MC(0) on the right graph is based on the total cost function TC(Q)
+shown in the left graph. At output level Q', a one-unit increase in output changes costs by TC
+(Q' + 1) - TC(Q'), which equals the marginal cost at Q', MC(Q). Since this change is not large,
+the marginal cost is small (i.e., the height of the marginal cost curve from the horizontal axis is
+small). At output level Q', a one-unit increase in output changes costs by TC(' + 1) -
+ТС
+(Q'), which equals the marginal cost at Q'. This change is larger than the one-unit change from
+Q', so MC(Q") > MC(Q). Because the total cost function becomes steeper as Q gets larger, the
+marginal cost curve must increase in output.
+Businesses frequently treat average cost and marginal cost as if they were identi-
+cal and use the former when making decisions that should be based on the latter. But
+average cost is generally different from marginal cost. The exception is when total
+costs vary in direct proportion to output, TC(Q) = cQ. In that case,
+MC(0) = (0 + A0) - cO = c
+which, of course, is also average cost. This result reflects a more general relationship
+between marginal and average cost (illustrated in Figure 1.5):
+• When average cost is a decreasing function of output, marginal cost is less than
+average cost.
+• When average cost neither increases nor decreases in output--because it is either
+constant (independent of output) or at a minimum point--marginal cost is equal to
+average cost.
+• When average cost is an increasing function of output, marginal cost is greater
+than average cost.
+These relationships follow from the mathematical properties of average and marginal
+cost, but they are also intuitive. If the average of a group of things (costs of manufac-
+turing cellular phones, test scores, or whatever) increases when one more thing (one
+more phone, one more test) is added to the group, then it must be because the value
+of the most recently added thing -the '
+"marginal"_is greater than the average.
+Conversely, if the average falls, it must be because the marginal is less than the
+average.
+Z
+3
+18 • Chapter 1 • Basic Microeconomic Principles
+FIGURE 1.5
+RELATIONSHIP BETWEEN MARGINAL COST AND AVERAGE COST
+ost
+AC decreases
+MC < AC
+MC(Q)
+/AC increases
+MC > AC
+AC(Q)
+When average cost is decreasing (e.g., at output
+Q), AC > MC (i.e., the average cost curve lies
+above the marginal cost curve). When average
+cost is increasing (e.g., at output 0"), AC < MC
+(i.e., the average cost curve lies below the
+marginal cost curve). When average cost is at a
+minimum, AC = MC, so the two curves must
+intersect.
+AC at
+minimum
+MC = AC
+Q Output
+The Importance of the Time Period: Long-Run
+versus Short-Run Cost Functions
+We emphasized the importance of the time horizon when discussing fixed versus
+variable costs. In this section, we develop this point further and consider some of
+its implications.
+Figure 1.6 illustrates the case of a firm whose production can take place in a facil-
+ity that comes in three different sizes: small, medium, and large. Once the firm com-
+mits to a production facility of a particular size, it can vary output only by varying the
+quantities of inputs other than the plant size (e.g., by hiring another shift of workers).
+The period of time in which the firm cannot adjust the size of its production facilities
+is known as the short run. For each plant size, there is an associated short-run average
+cost function, denoted by SAC. These average cost functions include the annual costs
+of all relevant variable inputs (labor, materials) as well as the fixed cost (appropriately
+annualized) of the plant itself.
+If the firm knows how much output it plans to produce before building a plant,
+then to minimize its costs, it should choose the plant size that results in the lowest
+short-run average cost for that desired output level. For example, for output Qi,
+the optimal plant is a small one; for output Q2, the optimal plant is a medium one;
+for output Qs, the optimal plant is a large one. Figure 1.6 illustrates that for larger
+outputs, the larger plant is best; for medium-output levels, the medium plant is
+best; and for small-output levels, the small plant is best. For example, when output
+is Qi, the reduction in average cost that results from switching from a large plant
+to a small plant is SAC(Q1) - SACs (Q1). This saving arises not only from reductions
+in the fixed costs of the plant but also because the firm can more efficiently tailor the
+rest of its operations to its plant size. When the firm produces Q1 in the large plant,
+it may need to utilize more labor to assure steady materials flows within the large
+facility. The small plant may allow flows to be streamlined, making such labor
+unnecessary.
+The long-run average cost function is the lower envelope of the short-run aver-
+age cost functions and is depicted by the bold line in Figure 1.6. It shows the lowest
+attainable average cost for any particular level of output when the firm can adjust its
+Coete • 19
+FIGURE 1.6
+SHORT-RUN AND LONG-RUN AVERAGE COST FUNCTIONS
+SAG, (Q, -.
+erage
+SACS(O,) -
+SAC (0)
+SACN(Q)
+/540,10
+•
+Q2
+03 04
+0 Output
+The curves labeled SACS(0), SAC (Q), and SAC:(Q) are the short-run average cost functions
+associated with small, medium, and large plants, respectively. For any level of output, the
+optimal plant size is the one with the lowest average cost. For example, at output Qi, the small
+plant is best. At output Q2, the medium plant is best. At output Qs, the large plant is best. The
+long-run average cost function is the "lower envelope" of the short-run average cost functions,
+represented by the bold line. This curve shows the lowest attainable average cost for any output
+when the firm is free to adjust its plant size optimally.
+plant size optimally. This is the average cost function the firm faces before it has
+committed to a particular plant size.
+In this example, the long-run average cost function exhibits economies of scale.
+By operating with larger plant sizes, the firm can lower its average costs. This raises a
+deceptively simple but extremely significant point. To realize the lower average costs,
+the firm not only must build a large plant but also must achieve sufficient output, so
+that the large plant is indeed the optimal one. It would be disastrous for the firm to
+build a large plant if it only achieved an output of, say, Qi. The firm would be saddled
+with an expensive underutilized facility. If we were to observe a firm in this situation,
+we might be tempted to conclude that the scale economies inherent in the production
+process were limited or nonexistent. This would be incorrect. Scale economies exist,
+but the firm is not selling enough output needed to exploit them. These concepts are
+closely tied to the concept of throughput, which we introduce in Chapter 4. Essen-
+tially, firms cannot fully exploit economies of scale unless they have sufficient inputs
+for production and distribution to get their products to market. Without such
+throughput, strategies that hinge on scale economies are doomed to fail.
+It is often useful to express short-run average costs as the sum of average fixed
+costs (AFC) and average variable costs (AVC):
+SAC(Q) = AFC(0) + AVC(Q)
+Average fixed costs are the firm's fixed costs (i.e., the annualized cost of the firm's
+plant plus expenses, such as insurance and property taxes, that do not vary with the
+volume of output) expressed on a per-unit-of-output basis. Average variable costs
+20 • Chapter 1 • Basic Microeconomic Principles
+are the firm's variable costs (e.g., labor and materials) expressed on a per-unit-
+of-output basis. For example, suppose the firm's plant has an annualized cost of
+59 million and other annual fixed expenses total S1 million. Moreover, suppose
+the firm's variable costs vary with output according to the formula 40°.
+Then we would have
+10
+AFC(0) = 6
+AVC(0) = 40
+10
+SAC(0) = 0*
+- + 40
+Note that as the volume of output increases, average fixed costs become smaller,
+which tends to pull down SAC. Average fixed costs decline because total fixed
+costs are being spread over an ever-larger production volume. Offsetting this (in
+this example) is the fact that average variable costs rise with output, which pulls
+SAC upward. The net effect of these offsetting forces creates the U-shaped SAC
+curves in Figure 1.6.
+Sunk versus Avoidable Costs
+When assessing the costs of a decision, the manager should consider only those costs
+that the decision actually affects. Some costs must be incurred no matter what the
+decision is and thus cannot be avoided. These are called sunk costs. The opposite of
+sunk costs is avoidable costs. These costs can be avoided if certain choices are made.
+When weighing the costs of a decision, the decision maker should ignore sunk
+costs and consider only avoidable costs.
+To illustrate the concept of sunk costs, take the case of an online merchandiser of
+laser printers. The merchandiser traditionally purchased large quantities of printers
+from the manufacturer so that it could satisfy rush orders. Increasingly, though,
+the merchandiser was carrying high inventories, including some lines that the man-
+ufacturer no longer produced and would not repurchase. A natural response to this
+problem would be to put the discontinued lines on sale and reduce inventory. How-
+ever, the firm's managers were reluctant to do this. They felt that even in the best of
+times the margins on their products barely covered their overhead and, by cutting the
+price, they would be unable to cover their cost of the goods they sold.
+This argument is wrong. The cost incurred to purchase the laser printers is a
+sunk cost as far as pricing is concerned. Whether or not the merchandiser cuts
+price, it cannot avoid these costs. If it believes that a seller should never price
+below average cost, the merchandiser will end up with large losses. Instead, it should
+accept that it cannot undo past decisions (and their associated sunk costs) and strive
+to minimize its losses.
+It is important to emphasize that whether a cost is sunk depends on the decision
+being made and the options at hand. In the example just given, the cost of the
+discontinued lines of printers is a sunk cost with respect to the pricing decision
+today. But before the printers were ordered, their cost would not have been sunk.
+By not ordering them, the merchandiser would have avoided the purchase and
+storage costs.
+Economic Casts and Profitability • 21
+Stents often confuse sunk costs with fixed costs. The two concepts are not the
+same. In partienlar, some fixed costs need nor be sunk. For exampie, a railroad serving
+Sydney to Adelaide needs a locomotive and a crew whether it hauls I carload of
+Freight or 20. The cost of the locomorive is thus a fixed cost. However, it is not
+necessarily sunk. If the milroad abandons its Sydney-to-Adelaide line, it can sell
+the Incomarive to another nailtoad or redeploy it to another route.
+Sunk costs are important for the study of strategy, particularly in analyzing ri-
+wally among firms, making decisions to enter or exit markets, and deciding whether
+ts adope new rechnologies.)
+For example, the concept of sunk costs helps explain why
+established American steel firms were unwilling to invest in continuous casting tech-
+nology, even as new Japanese firms building " greenfield" facilities did adopt the new
+technology. The new technology had higher fixed costs. but lower variable operating
+costs. Established American firms viewed the fixed cost of their old technologies as
+sunk. Thus, dey compared the savings in operating costs against the fixed cost of
+the new technology: The Japanese firms, in contrast, compared the savings in oper-
+ating costs against the difference berween the fixed costs of the new and old technol-
+ogies. American firms thus required a larger cost savings than the Japanese firms to
+induce them to adopt the new technology. Despite criticism in the popular business
+press, die American firms' decisions to delay adoption of new technology was eco-
+nomically sound, serving to maximize profits even if it did entail higher operating
+casts. We will rerurn to the concent of sunk costs throughout the text.
+ECONOMIC COSTS AND PROFITABILITY
+Economic versus Accounting Costs
+The costs in Tables I.D and 1.2 reflect the accountant's concept of costs.. This con-
+cept is grounded in die principles of accrual accounting, which emphasize historical
+costs. Acenunting statements- in particular, income statements and balance sheets-
+are designed to serve an audience outside the firm, such as lenders and equity inves-
+tors. The accounting numbers must thus be objective and verifiable, principles that
+are well served by historical costs.
+However, the costs dat appear in accounting statements are not necessarily
+appropriate for decision making inside a firm. Business decisions require the
+measurement of economic costs, which are based on the concept of opportunity
+cost. This concept says that the economic cost of deploying resources in a particular
+activity is the value of the best forgone alternative use of chose resources. Économic
+cost may not correspond to the historical costs represented in Tables L.I and 1.2.
+Suppose, for example, dat the firm purchased its raw materials at a price below
+Their current market price. Would the costs of goods manufactured in Table 1.2 rep-
+resent tie cconomic cost to the firm of using these resources? The answer is no.
+When the firm uses them to produce finished goods, it forsakes the alternative of
+reselling the materials at the market price. The economic cost of the firm's pro-
+ducrion activities reflects this forgone opportunity.
+At a broader level, consider the resources (plant, equipment, land, etc.) that have
+Been purchased with funds that stockholders provide to the firm. To attract these
+funds, the firm must offer the stockholders a return on their investment that is at
+least as large as the return that they could have received from investing in activities
+of comparable risk. To illustrate, suppose that at the beginning of 2009. a firm's
+22 • Chapter I • Basie Microeconomie Prineiples
+assets could have been liquidated for $100 million. By tying their funds up in the firm,
+investors lose the opportunity to invest the $100 million in an activity providing an H
+percent return. Morcover, suppose that because of wear and tear and ereeping obso.
+lescence of plant and equipment, the value of the assets deelines by 1 percent over the
+year 2009. The annualized cost of the firm's assets for 2009 is then (0.08 + 0.01) *
+$100 million = $9 million per year. This is an economie cost, but it would not appear
+in the firm's income statement.
+In studying strategy, we are interested in analyzing why firms make their decisions
+and what distinguishes good decisions from poor ones, given the opportunities and the
+constraints firms face. in our formal theories of firm behavior, we thus emphasize
+economic costs rather than historical accounting costs. This is not to say that account
+ing costs have no place in the study of business strategy. Quite the contrary: In assess-
+ing the past performance of the firm, in comparing one firm in an industry to another,
+or in evaluating the financial strength of a firm, the informed use of accounting state-
+ments and accounting ratio analysis can be illuminating. However, the concept of
+opportunity cost provides the best basis for good economie decisions when the firm
+must choose among competing alternatives. A firm that consistently deviated from
+this idea of cost would miss opportunities for earning higher profits. In the end, it
+might be driven out of business by firms that are better at seizing profit-enhancing
+opportunities, or it may find itself starved for capital as investors bid down its stock
+price. Whenever we depict a cost function or discuss cost throughout this book, we
+have in mind the idea of costs as including all relevant opportunity costs.
+Economic Profit versus Accounting Profit
+Having distinguished between economic cost and accounting cost, we can now
+distinguish between economic profit and accounting profit:
+• Accounting profit = Sales revenue - Accounting cost.
+• Economic profit = Sales revenue - Economic cost
+= Accounting profit - (Economic cost - Accounting cost).
+To illustrate the distinction between the two concepts, consider a small software
+development firm that is owner operated. In 2009, the firm earned revenue of
+$1,000,000 and incurred expenses on supplies and hired labor of $850,000. The owner's
+best outside employment opportunity would be to earn a salary of $200,000 working for
+Microsoft. The software firm's accounting profit is $1,000,000 - $850,000 = $150,000.
+The software firm's economic profit deducts the opportunity cost of the owner's labor
+services and is thus $1,000,000 - $850,000 - $200,000 = -$50,000. This means that
+the owner made $50,000 less in income by operating this business than she could
+have made in her best outside alternative. The software business "destroyed" $50,000
+of the owner's wealth in that, by operating the software business, she earned $50,000
+less income than she might have otherwise.
+• • * • DEMAND AND REVENUES
+The second component of profit is sales revenue, which is intimately related to the
+firm's pricing decision. To understand how a firm's sales revenue depends on its pric-
+ing decision, we will explore the concept of a demand eurve and the price elasticity of
+demand.
+Demand and Revenues • 23
+Demand Curve
+The demand function describes the relationship between the quantity of product that
+the firm is able to sell and all the variables that influence that quantity. These vari-
+ables include the price of the product, the prices of related products, the incomes
+and tastes of consumers, the quality of the product, advertising, and many other vari-
+ables commonly thought to make up the firm's marketing mix. With so many vari-
+ables, it would be difficult to depict the demand function on a graph.
+Of special interest is the relationship between quantity and price. To focus on
+this important relationship, imagine that all the other variables that influence the
+quantity demanded remain fixed, and consider how the quantity demanded would
+change as the price changes.
+We can show this simple relationship on a graph.
+Figure 1.7 depicts a demand curve. We would expect the demand curve to be down-
+ward sloping: The lower the price, the greater the quantity demanded; the higher the
+price, the smaller the quantity demanded. This inverse relationship is called the law of
+demand.
+The law of demand may not hold if high prices confer prestige or enhance a prod-
+uct's image, or when consumers cannot objectively assess the potential performance of
+a product and use price to infer quality. Both prestige and signaling effects could
+result in demand curves that slope upward for some range of prices. Even so, personal
+experience and countless studies from economics and marketing confirm that the law
+of demand applies to most products.
+As Figure 1.7 shows, the demand curve is typically drawn with price on the ver-
+tical axis and quantity on the horizontal axis. This may seem strange because we think
+that price determines the quantity demanded, not the other way around. However,
+this representation emphasizes a useful alternative interpretation for a demand
+curve. Not only does the demand curve tell us the quantity consumers will purchase
+at any given price, it also tells us the highest possible price that the market will bear
+for a given quantity or supply of output. Thus, in Figure 1.7, if the firm sets a target
+of selling output level Q' (which might be what it can produce by running at full
+capacity), the demand curve tells us that the highest price the firm can charge is P'.
+FIGURE 1.7
+DEMAND CURVE
+Price
+The demand curve shows the quantity of a
+product that consumers will purchase at different
+prices. For example, at price P consumers
+purchase Q' units of the product. We would
+expect an inverse relationship between quantity
+and price. so this curve is downward sloping.
+Q Quantity
+24 • Chapter 1 • Basic Microeconomic Principles
+The Price Elasticity of Demand
+Look at a firm that is considering a price increase. The firm understands that accord-
+ing to the law of demand, the increase in price will result in the loss of some sales. This
+may be acceptable if the loss in sales is not "too large." If sales do not suffer much, the
+firm may actually increase its sales revenue when it raises its price. If sales drop sub-
+stantially, however, sales revenues may decline, and the firm could be worse off.
+Figure 1.8 illustrates the implications of the firm's pricing decision when its
+demand curve has one of two alternative shapes, D4 and De. Suppose the firm is cur-
+rently charging Po and selling Qo, and is considering an increase in price to P4. If the
+firm's demand curve is D4, the price increase would cause only a small drop in sales.
+In this case, the quantity demanded is not very sensitive to price. We would suspect
+that the increase in price would increase sales revenue because the price increase
+swamps the quantity decrease. By contrast, if the firm's demand curve is D, the
+increase in price would cause a large drop in sales. Here, the quantity demanded
+is very sensitive to price. We would expect that the price increase would decrease
+sales revenues.
+As this analysis shows, the shape of the demand curve can strongly affect the suc-
+cess of the firm's pricing strategy. The concept of the price elasticity of demand sum-
+marizes this effect by measuring the sensitivity of quantity demanded to price. The
+price elasticity of demand, commonly denoted by n, is the percentage change in
+quantity brought about by a 1 percent change in price. Letting subscript "0" rep-
+resent the initial situation and "|" represent the situation after the price changes,
+the formula for elasticity is
+10/00
+AP/Po
+where AP = P, - Po is the change in price, and AQ = Q, - Qo is the resulting change
+in quantity." To illustrate this formula, suppose price is initially $5, and the
+FiGuRe 1
+PRICE SENSITIVTTY AND THE SHAPE OF THE DEMAND CURVE
+When the demand curve is D4, a change in price
+from Po to P, has only a small effect on the
+quantity demanded. However, when the demand
+curve is De, the same change in price results in a
+large drop in quantity demanded. When D4 is
+the demand curve, we would conjecture that the
+increase in price would increase sales revenues,
+but when De is the demand curve, the price
+increase would reduce sales revenues.
+Q0
+Q Quantity
+corresponding quantity demanded is 1,000 units. If the price rises to $5.75, though,
+the quantiry demanded would fall to 800 units. Then
+800 - 1000
+1000
+5.75 - 5
+-0.20
+= 1.33
+0.15
+Thus, over the range of prices between $5.00 and $5.75, quantity demanded falls at a
+rate of 133 percent for every 1 percent increase in price.
+The price elasticity n might be less than I or greater than I.
+• If m is less than 1, we say that demand is imelatis, which is the situation along
+demand curve D, for the price change being considered.
+• If n is greater than 1, we say that demand is elastic, which is the situation
+along demand curve Ds for the price change being considered.
+Given an estimate of the price elasticity of demand, a manager could calculate the
+expected percentage change in quantity demanded resulting from a given change
+in price by muitiplying the percentage change in price by the estimated elasticity.
+To illustrite, suppose management believed n7 = 0.75.
+If it contemplated a 3 percent
+increase in price, then it should expect a 3 x 0.75 = 2.25 percent drop in the quantity
+demanded as a resalt of the price increase.
+Price elasticities can be estimated wing statistical techniques, and economists
+and marketers have estimated price elasticities for many products. But in most prac-
+tical situations, managers will not have the benefit of a precise numerical estimate of
+elasticity based on statistical techniques. Consequently, the manager must rely on his
+or her knowledge of the product and the nature of the market to estimate price sen-
+sitivity. Among the factors that tend to make demand for the firm's product more
+sensitive to price are the following:
+• The product has few
+features that differentiate it from rival products, and
+buyers are aware of the prices and features of rival products. Airline service is a good
+example of a product that is hard to differentiate and where consumers can easily
+inform themselves of the range of prices that exist in a particular market.
+•Buvers" expenditures on the produ act are a large fraction of their total expenditures.
+La this case, the savings from finding a comparable item at a lower price are
+large, so consumers tend to shop more than when making small purchases.
+Refrigerators and washing machines are products whose demand is fairly price
+sensitive beczuse consumers are motivated to shop around before purchasing.
+• The product is an input that buyers us e to produce a final good whose demand is
+itself sensitive to price. In this case, if buyers tried to pass through to their cus-
+toners even small changes in the price of the input, demand for the finished good
+could decrease drimatically. The input buyers will thus be very sensitive to price.
+le. a personal computer manufacturer's demand for components and
+-rials is Mely to be highly price elastic because consumer demand for personal
+Among the factors that tend to make demand less sensitive to price are the following.
+• Comparisons among substitute products are difficult. This could be because the prod-
+act is complex and has many performance dimensions, because consumers have
+26 • Chapter I • Basic Microeconomic Principles
+little or no experience with substitute products and thus would face a risk if they
+purchased them, or because comparison shopping is costly. Items sold door-to-door,
+such as Avon cosmetics, have traditionally been price inelastic because, at the time
+of sale, most consumers lack good information about the prices of alternatives.
+• Because of tax deductions or insurance, buyers pay only a fraction of the full price
+of the product. Health care is an excellent example.
+• A buyer would incur significant costs if it switched to a substitute product.
+Switching costs could arise if the use of a product requires specialized training
+or expertise that is not fully transferable across different varieties of the
+product. For example, to the extent that a consumer develops expertise in
+using a particular word-processing package that is incompatible with available
+alternatives, switching costs will be high, and price sensitivity for upgrades
+will be low.
+• The product is used in conjunction with another product that buyers have com-
+mitted themselves to. For example, an owner of a copying machine is likely to be
+fairly insensitive to the price of toner, because the toner is an essential input in
+running the copier.
+Brand-Level versus Industry-Level Elasticities
+Students often mistakenly suppose that just because the demand for a product is
+inelastic, the demand facing each seller of that product is also inelastic. Consider,
+for example, gasoline. Many studies have documented that the demand for gasoline
+is price inelastic, with elasticities of around 0.10-0.20. This suggests that a general
+increase in the prices charged at all gas stations would only modestly affect overall
+gasoline demand. However, if only one gas station increases its price, the demand
+for that gas station would probably drop substantially because consumers would
+patronize other stations. Thus, while demand can be inelastic at the industry level,
+it can be highly elastic at the brand level.
+Should a firm use an industry-level elasticity or a firm-level elasticity in asses-
+sing the impact of a price change? The answer depends on what the firm expects its
+rivals to do. If a firm expects that rivals will quickly match its price change, then
+the industry-level elasticity is appropriate. If, by contrast, a firm expects that rivals
+will not match its price change (or will do so only after a long lag), then the brand-
+level elasticity is appropriate. For example, Pepsi's price cut succeeded because
+Coke did not retaliate. Had Coke cut its price, the outcome of Pepsi's strategy
+would have been different. Making educated conjectures about how rivals will
+respond to pricing moves is a fascinating subject. We will encounter this subject
+again in Chapter 10.
+Total Revenue and Marginal Revenue Functions
+A firm's total revenue function, denoted by TR(Q), indicates how the firm's sales rev-
+enues vary as a function of how much product it sells. Recalling our interpretation of
+the demand curve as showing the highest price P(Q) that the firm can charge and sell
+exactly Q units of output, we can express total revenue as
+TR(0) = P(2)Q
+Demand and Revenues • 27
+Just as a fire is interested in the impact of a change in output on its costs, it is
+also interested in how a change in output will affect its
+firm's
+marginal revenue, MAX is analogous to its marginal cost. It represents the
+rate of change in total revenue that results from the sale of AQ additional units
+of output:
+TR(O + 40) - TR(0)
+MA(0) =
+40
+It seems plausible that total revenue would go up as the firm sells more our
+put, and thus AR would always be positive. But with a downward sloping demand
+curve, this is not necessarily true.
+To sell more, the firm must lower its price.
+Thus while it generates revenue on the extra units of output it sells at the
+lower price, it loses revenue on all the units it would have sold at the higher
+price. Economists call this the reeven destraction effect. For example, an online
+electronics retailer may sell 110 DVDs per day at a price of SIl per dise and
+120 DVDs at 59 per disc. It gains additional revenue of $90 per day on the
+extra 10 DVDs sold at the lower price of $9, but it sacrifices $220 per day on
+the 110 DVDs that it could have sold for $2 more. The marginal revenue in
+this case would equal - $130/10, or -$13; the store loses sales revenue of $13
+for each additional DVD it sells when it drops its price from $11 to $9.
+In general, whether marginal revenue is positive or negative depends on the price
+elasticity of demand. The formal relationship (whose derivation is not important for
+our purposes) is
+MRIO) = P(1 - 1)
+For example, if »= 0.75, and the current price P= $15, then marginal revenue
+MR = 15(1 - 1/0.75) = - S5. More generally,
+• When demand is elastie, so that » > 1, it follows that MR > 0. In this case, the
+increase in output brought about by a reduction in price will raise total sales
+revenues.
+• When demand is inelastic, so that 1 < 1, it follows that MIR < 0. Here, the
+increase in output brought about by a reduction in price will lower total sales
+revenue.
+Note that this formula implies that MR < P. This makes sense in light of what
+we just discussed. The price P is the additional revenue the firm gets from each
+additional unit it sells, but the overall change in revenues from selling an additional
+unit must factor in the revenue destruction effect.
+Figure 1.9 shows the graph of a demand curve and its associated marginal
+revenue curve. Because MR < P, the marginal revenue curve must lie everywhere
+below the demand curve, except at a quantity of zero. For most demand curves,
+the marginal revenue curve is everywhere downward sloping and at some point
+will shift from being positive to negative. (This occurs at output Q' in the
+figure.)
+28 • Chapter 1 • Basie Mieroeconomic Principles
+FIGURE 1.9
+THE MARGINAL REVENUE CURVE AND THE DEMAND CURVE
+Price, marginal revenue
+MR represents the marginal revenue curve
+associated with the demand curve D. Because
+MR < P, the marginal revenue curve must lie
+everywhere below the demand curve except at a
+quantity of 0. Marginal revenue is negative for
+quantities in excess of Q.
+Q Quantity
+THEORY OF THE FIRM: PRICING AND OUTPUT DECISIONS
+Part Two of this book studies the structure of markets and competitive rivalry within
+industries. To set the stage for this analysis, we need to explore the theory of the firm,
+a theory of how firms choose their prices and quantities. This theory has both explan-
+atory power and prescriptive usefulness. That is, it sheds light on how prices are
+established in markets, and it also provides tools to aid managers in making pricing
+decisions.
+The theory of the firm assumes that the firm's ultimate objective is to make as
+large a profit as possible. The theory is therefore appropriate to managers whose
+goal is to maximize profits. Some analysts argue that not all managers seek to
+maximize profits, so that the theory of the firm is less useful for describing actual
+firm behavior. An extensive discussion of the descriptive validity of the profit-
+maximization hypothesis would take us beyond this primer. Suffice to say that a
+powerful "evolutionary" argument supports the profit-maximization hypothesis: if,
+over the long haul, a firm's managers did not strive to achieve the largest amount
+of profit consistent with industry economics and its own particular resources, the
+firm would either disappear or its management would be replaced by one that better
+served the owners' interests.
+Ideally, for any given amount of output the firm might want to sell, it would
+prefer to set price as high as it could. As we have seen, though, the firm's demand
+curve limits what that price can be. How, then, is the optimal output determined?
+This is where the concepts of marginal revenue and marginal cost become useful.
+Recalling that "marginals" are rates of change (change in cost or revenue per one-
+unit change in output), the changes in revenue, cost, and profit from changing
+output by AQ units (where AQ can either represent an increase in output, in
+Theory of the Firm: Pricing and Output Decisions • 29
+which case it is a positive amount, or a decrease in output, in which case it is a
+negative amount) are
+Change in Total Revenue = MR > AQ
+Change in Total Cost = MC * AQ
+Change in Total Profit = (MR - MC) * AQ
+The firm clearly would like to increase profit. Here's how:
+• If MR > MC, the firm can increase profit by selling more (AQ > 0), and to
+do so, it should lower its price.
+• If MR < MC, the firm can increase profit by selling less (AQ < 0), and to
+do so, it should raise its price.
+• If MR = MC, the firm cannot increase profits either by increasing or decreasing
+output. It follows that output and price must be at their optimal levels.
+Figure 1.10 shows a firm whose output and price are at their optimal levels.
+The curve D is the firm's demand curve, MR is the marginal revenue curve, and
+MC is the marginal cost curve.
+The optimal output occurs where MR = MC, that
+is, where the MR and MC curves intersect. This is output Q* in the diagram.
+The optimal price P* is the associated price on the demand curve.
+An alternative and perhaps more managerially relevant way of thinking about
+these principles is to express MR in terms of the price elasticity of demand. Then
+the term MR = MC can be written as
+P(1-1 = мс
+Let us now suppose that, as a first approximation, the firm's total variable costs
+are directly proportional to output, so that MC = c, where c is the firm's average variable
+FIGURE 1.10
+OPTIMAL QUANTIIY AND PRICE FOR A PROFTT-MAXIMIZING FIRM
+Price, marginal
+The firm's optimal quantity occurs at Q*, where
+MR = MC. The optimal price P is the price the
+firm must charge to sell Q* units. It is found from
+the demand curve.
+30 • Chapter 1 • Basic Microeconomic Principles
+cost. The percentage contribution margin, or PCM, on additional units sold is the ratio
+of profit per unit to revenue per unit, or PCM = (P - 0)/P. Algebra establishes that
+MR - MC > 0 as n > 1/PCM
+MR - MC < 0 as m < 1/PCM
+which implies that
+• A firm should lower its price whenever the price elasticity of demand exceeds the
+reciprocal of the percentage contribution margin on the additional units it
+would sell by lowering its price.
+• A firm should raise its price when the price elasticity of demand is less than the
+reciprocal of the percentage contribution margin of the units it would not sell by
+raising its price.
+These principles can guide pricing decisions even though managers do not know
+the firm's demand curve or marginal cost function. Managers have only to make edu-
+cated conjectures about the relative magnitude of elasticities and contribution
+margins.I An example may help cement these concepts. Suppose P= $10 and
+= 55, so PCM = 0.50. Then the firm can increase profits by lowering its price if
+its price elasticity of demand n exceeds 1/0.5 = 2. If, instead, P= $10 and c = $8,
+so that PCM = 0.2, the firm should cut its price if n> 5. As this example shows,
+the lower a firm's PCM (e.g., because its marginal cost is high), the greater its
+price elasticity of demand must be for a price-cutting strategy to raise profits.
+• • • • PERFECT COMPETITION
+A special case of the theory of the firm is the theory of perfect competition. This the-
+ory highlights how market forces shape and constrain a firm's behavior and interact
+with the firm's decisions to determine profitability. The theory deals with a stark
+competitive environment: an industry with many firms producing identical products
+(so that consumers choose among firms solely on the basis of price) and where firms
+can enter or exit the industry at will. This is a caricature of any real market, but it
+does approximate industries such as aluminum smelting and copper mining in
+which many firms produce nearly identical products.
+Because firms in a perfectly competitive industry produce identical products,
+each firm must charge the same price. This market price is beyond the control of
+any individual firm; it must take the market price as given. For a firm to offer to
+sell at a price above the market price would be folly because it would make no
+sales. Offering to sell below the market price would also be folly because the firm
+would needlessly sacrifice revenue. As shown in Figure 1.11, then, a perfectly com-
+petitive firm's demand curve is perfectly horizontal at the market price, even though
+the industry demand curve is downward sloping. Put another way, the firm-level
+price elasticity of demand facing a perfect competitor is infinite, even though the
+industry-level price elasticity is finite.
+Given any particular market price, each firm must decide how much to produce.
+Applying the insights from the theory of the firm, the firm should produce at the
+point where marginal revenue equals marginal cost. When the firm's demand
+curve is horizontal, each additional unit it sells adds sales revenue equal to the market
+Perfect Competition • 31
+FIGURE 1.11
+DEMAND AND SUPPLY CURVES FOR A PERFECTLY COMPETTTIVE FIRM
+A perfectly competitive firm takes the market
+price as given and thus faces a horizontal demand
+curve at the market price. This horizontal line
+also represents the firm's marginal revenue curve
+MR. The firm's optimal output occurs where its
+marginal revenue equals marginal cost.
+the market price is Po, the optimal output is Qo-
+If the market price were to change, the firm's
+optimal quantity would also change. At price Pr,
+the optimal output is Qi. At price Po, the optimal
+output is Qo. The firm's supply curve traces out
+the relationship between the market price and
+the firm's optimal quantity of output. This curve
+is identical to the firm's marginal cost curve.
+É Pr
+Price, marginal
+P.
+Po
+Qo
+Q, 02
+0 Onantity
+price. Thus, the firm's marginal revenue equals the market price, and the optimal
+output, shown in Figure 1.11, is where marginal cost equals the market price.
+If we were to graph how a firm's optimal output changed as the market price
+changed, we would trace out a curve that is identical to the firm's marginal cost func-
+tion. This is known as the firm's supply curve. It shows the amount of output the
+perfectly competitive firm would sell at various market prices. Thus, the supply
+curve of a perfectly competitive firm is identical to its marginal cost function.
+If we aggregate over the firm supply curves of all active producers in the industry,
+we get the industry supply curve, depicted in Figure 1.12 as SS. This figure shows an
+FIGURE 1.12
+FIRM AND INDUSTRY SUPPLY CURVES UNDER PERFECT COMPETTTION
+S15
+Price, marginal
+S10
+40
+units units
+Firm's quantity
+40.000 50.000
+units units
+Industry quantity
+A single firm's supply curve is shown in the graph on the left. The industry's supply curve SS is
+shown in the graph on the right. These graphs depict an industry of 1,000 identical firms.
+Thus, at any price the industry supply is 1,000 times the amount that a single firm would
+supply.
+32 • Chapter 1 • Basic Microeconomic Principles
+industry with 1,000 identical active firms. At any price, the industry supply is 1,000
+times the supply of an individual firm. Given the industry supply curve, we can
+now see how the market price is determined. For the market to be in equilibrium,
+the market price must be such that the quantity demanded equals the quantity sup
+plied by firms in the industry. This situation is depicted in Figure 1.13, where p.
+denotes the price that "clears" the market. If the market price was higher than P°.
+then more of the product would be offered for sale than consumers would like to
+buy. The excess supply would then place downward pressure on the market price.
+If the market price was lower than P°, then there would be less of the product offered
+for sale than consumers would like to buy. Here, the excess demand would exert
+upward pressure on the market price. Only when the quantities demanded and sup-
+plied are equal--when price equals P*_-is there no pressure on price to change.
+The situation shown in Figure 1.13 would be the end of the story if additional
+firms could not enter the industry. However, in a perfectly competitive industry, firms
+can enter and exit at will. The situation in Figure 1.13 is thus unstable because firms
+in the industry are making a profit (price exceeds average cost at the quantity a* that
+each firm supplies). Thus, it will be attractive for additional firms to enter and begin sell-
+ing. Figure 1.14 shows the adjustment that oceurs. As more firms enter, the supply curve
+SS shifts outward to SS. As this happens, the quantity supplied exceeds the quantity
+demanded, and there is pressure on price to fall. It will continue to fall until no additional
+entry occurs. This is when the market price just equals a typical firm's average cost. As we
+have seen, to optimize output, firms produce where market price equals marginal cost.
+Thus, in the long-run equilibrium depicted in Figure 1.14, firms are producing at mini-
+mum efficient scale (recall, this is the quantity corresponding to the minimum point on
+the average cost curve), and the equilibrium market price P** equals the minimum level
+of average cost.
+FIGURE 1.13
+PERFECTLY COMPETITIve INDUStRy PRioR TO NEw ENtRy
+Price, marginal cost, average
+Profit
+per unit
+Firm's quantity
+Industry quantity
+At the price P°, each firm is producing its optimal amount of output 4*. Moreover, the quantity
+demanded equals the quantity Q* supplied by all firms in the industry. However, each firm is
+earning a positive profit because at q*, the price P* exceeds average cost AC(*), resulting in a
+profit on every unit sold. New firms would thus want to enter this industry.
+Perfect Competition • 33
+rice, marginal cost, average cost
+!
+PERFECTLY COMPETITIVE INDUSTRY AT LONG-RUN EOUlLiBRIUM
+FIGURE 1.14
+Firm's quantity
+Industry quantity
+At price P°, new entrants are attracted to the industry. As they come in, the industry's supply
+curve shifts to the right, from SS to SS', resulting in a reduction in market price. Entry ceases
+to occur when firms are earning as muc h inside the industry as they can earn outside it. Each
+firm thus earns zero economic profit, or equivalently, price equals average cost. Firms are
+choosing the optimal out t and earning zero economic profit when they produce at the point
+at which market price equals both marginal cost and average cost. This occurs when the price is
+P* and firms produce a*. Firms are thus at the minimum point on their average cost function.
+Suppose, now, that market demand suddenly falls. Figure 1.15 shows what hap-
+pens. The fall in market demand is represented by a shift from demand curve Do to
+D.. Initially, market price would fall to P and firms' revenues would not cover their
+economic costs. The industry "shakeout" then begins. Firms begin to exit the indus-
+try. As this occurs, the industry supply curve shifts to the left, and price begins to rise.
+Once the shakeout fully unfolds, the industry supply curve will have shifted to SS,
+and the market price will once again reach P**.
+. Firms are then again optimizing on
+output and earning zero profit. Thus, no matter what the level of industry demand,
+the industry will eventually supply output at the price P**.
+This theory implies that free entry exhausts all opportunities for making profit.
+This implication sometimes troubles management students because it seems to
+suggest that firms in perfectly competitive industries would then earn zero net
+income. But remember the distinction between economic costs and accounting
+costs. Economic costs reflect the relevant opportunity costs of the financial capital
+that the owners have provided to the firm. Zero profits thus means zero economic
+profit, not zero accounting profit. Zero economic profit simply means that investors
+are earning returns on their investments that are commensurate with what they could
+earn from their next best opportunity.
+That free entry dissipates economic profit is one of the most powerful insights in
+economics, and it has profound implications for strategy. Firms that base their strat-
+egies on products that can be easily imitated or skills and resources that can be easily
+acquired put themselves at risk to the forces that are highlighted by the theory of per-
+fect competition. To attain a competitive advantage, a firm must secure a position in
+34 • Chapter 1 • Basic Microeconomic Principles
+FIGURE 1.15
+EFFECT OF A REDUCTION IN DEMAND ON THE LONG-RUN PERFECTLY COMPETITIVE
+Firm's quantity
+Industry quantity
+When demand falls, the demand curve shifts from Do to Di, and price would initially fall to P.
+Firms would earn less than they could elsewhere and would eventually begin to leave the
+industry. As this happens, the supply curve shifts to the left from S$ to SS,. The industry
+shakeout ends when price is again P**.
+the market that protects itself from imitation and entry. How firms might do this is
+the subject of Chapters 13, 14, and 15.
+• GAME THEORY
+The perfectly competitive firm faces many competitors, but in making its output
+decision, it does not consider the likely reactions of its rivals. This is because the
+decisions of any single firm have a negligible impact on market price. The key stra-
+tegic challenge of a perfectly competitive firm is to anticipate the future path of prices
+in the industry and maximize against it.
+In many strategic situations, however, there are few players. For example, four
+producers- -Asahi, Kirin, Sapporo, and Suntory-account for well over 90 percent
+of sales in the Japanese beer market. In the market for transoceanic commercial air-
+craft, there are just two producers: Boeing and Airbus. In these "small numbers" situ-
+ations, a key part of making strategic decisions--pricing, investment in new facilities,
+and so forth--is anticipating how rivals may react.
+A natural way to incorporate the reactions of rivals into your analysis of strategic
+options is to assign probabilities to their likely actions or reactions and then choose
+the decision that maximizes the expected value of your profit, given this probability dis-
+tribution. But this approach has an important drawback: How do you assign probabil-
+ities to the range of choices your rivals might make? You may end up assigning positive
+probabilities to decisions that, from the perspective of your competitors, would be fool-
+ish. If so, then the quality of your "decision analysis" would be seriously compromised.
+A more penetrating approach would be to attempt to "get inside the minds" of your
+competitors, figure out what is in their self-interest, and then maximize accordingly.
+you
+nOT
+and
+=
+qu
+§
+FE
+Game Theory • 35
+However, your rivals' optimal choices will often depend on their expectations of what
+you intend to do, which, in turn. depend on their assessments of your assessments
+about them. How can one sensibly analyze decision making with this circularity?
+Game theory is most valuable in precisely such contexts. It is the branch of eco-
+nomics concerned with the analysis of optimal decision making when all decision
+makers are presumed to be rational and each is attempting to anticipate the actions
+and reactions of its competitors. Much of the material in Part Two on industry analy-
+sis and competitive strategy draws on basic game theory. In this section, we introduce
+these basic ideas. In particular, we discuss games in matrix and game tree form as well
+as the concepts of a Nash equilibrium and subgame perfection.
+Games in Matrix Form and the Concept of Nash Equilibrium
+The easiest way to introduce the basic elements of game theory is through a simple
+example. Consider an industry that consists of two firms, Alpha and Beta, that pro-
+duce identical products. Each must decide whether to increase its production capacity
+in the upcoming year. We will assume that each firm always produces at full capacity.
+Thus, expansion of capacity entails a tradeoff. The firm may achieve a larger share of
+the market, but it may also put downward pressure on the market price. The conse-
+quences of each firm's choices are described in Table 1.3. The first entry is Alpha's
+annual economic profit; the second entry is Beta's annual economic profit.
+Each firm will make its capacity decision simultaneously and independently of
+the other firm. To identify the "likely outcome" of games like the one shown in
+Table 1.3, game theorists use the concept of a Nash equilibrium. At a Nash equi-
+librium outcome, each player is doing the best it can, given the strategies of the
+other players. In the context of the capacity expansion game, the Nash equilibrium
+is that pair of strategies (one for Alpha, one for Beta) such that
+• Alpha's strategy maximizes its profit, given Beta's strategy.
+• Beta's strategy maximizes its profit, given Alpha's strategy.
+In the capacity expansion game, the Nash equilibrium is (EXPAND, EXPAND);
+that is, each firm expands its capacity. Given that Alpha expands its capacity, Beta's
+best choice is to expand its capacity (yielding profit of 16 rather than 15). Given
+that Beta expands its capacity, Alpha's best choice is to expand its capacity.
+In this example, the determination of the Nash equilibrium is fairly easy, because
+for each firm the strategy EXPAND maximizes profit no matter what decision its
+competitor makes. In this situation, we say that EXPAND is a dominant strategy.
+TABLE 1.3
+CAPACITY GAME BETWEEN ALPHA AND BETA
+Beta
+Alpha
+DO NOT EXPAND
+EXPAND
+Do Not Expand
+$18, $18
+$20, $15
+All amounts are in millions per year. Alpha's payoff is first; Beta's is second.
+Expand
+S15, $20
+$16, $16
+36 - Chapter 1 • Basic Microcconomic Principles
+TABLE 1.4
+MODIFIED CAPACITY GAME BETWEEN ALPHA AND BETA
+Beta
+DO NOT EXPAND
+Alpha
+SMALL
+Do Not Expand
+$18, 518
+520, 515
+618. 59
+LARGE
+All amounts are in millions per year. Alpha's payoff is first; Beta's is second.
+Small
+515, 520
+516,516
+512, 58
+Expand
+59, 518
+S8. S12
+SO, SO
+When a player has a dominant strategy, it follows (from the definition of the Nash
+equilibrium) that that strategy must also be the player's Nash equilibrium strategy.
+However, dominant strategies are not inevitable; in many games players do not
+possess dominant strategies (e.g., the game in Table 1.4).
+Why does the Nash equilibrium represent a plausible outcome of a game? Prob-
+ably its most compelling property is that it is a self-enforcing focal point: If each party
+expects the other party to choose its Nash equilibrium strategy, then both parties
+will, in fact, choose their Nash equilibrium strategies. At the Nash equilibrium,
+then, expectation equals outcome expected behavior and actual behavior converge.
+This would not be true at non-Nash equilibrium outcomes, as the game in Table 1.4
+illustrates. Suppose Alpha (perhaps foolishly) expects Beta not to expand capacity and
+refrains from expanding its own capacity to prevent a drop in the industry price level.
+Beta--pursuing its own self-interest-would confound Alpha's expectations, expand
+its capacity, and make Alpha worse off than it expected to be.
+The capacity expansion game illustrates a noteworthy aspect of a Nash equilib-
+rium. The Nash equilibrium does not necessarily correspond to the outcome that
+maximizes the aggregate profit of the players. Alpha and Beta would be collectively
+better off by refraining from the expansion of their capacities. However, the rational
+pursuit of self-interest leads each party to take an action that is ultimately detrimental
+to their collective interest.
+This conflict between the collective interest and self-interest is often referred to as
+the prisoners' dilemma. The prisoners' dilemma arises because in pursuing its self-
+interest, each party imposes a cost on the other that it does not take into account.
+In the capacity expansion game, Alpha's addition of extra capacity hurts Beta because it
+drives down the market price. As we will see in Chapters 8 and 10, the prisoners' dilemma
+is a key feature of equilibrium pricing and output decisions in oligopolistic industries.
+Game Trees and Subgame Perfection
+The matrix form is particularly convenient for representing games in which each
+party moves simultancously. In many situations, however, decision making is sequen-
+tial rather than simultaneous, and it is often more convenient to represent the game
+with a game tree instead of a game matrix.
+To illustrate such a situation, let us modify the capacity expansion game to allow
+the firm to choose among three options: no expansion of current capacity, a small
+expansion, or a large expansion. For contrast, let us first examine what happens
+when both firms decide simultaneously. This game is represented by the 3-by-3
+| 722el
+Game 'Theory • 37
+FIGURE 1.16
+GAME TREE FOR SEQUENTIAL. CAPACITY EXPANSION GAME
+Do Not Expand
+(518, $18)
+Do Not Expand
+Small
+($15, $20)
+Large
+Do Not Expand
+Alpha,
+(S9, $18)
+($20, $15)
+Beta,
+Small
+Small
+(S16, S16)
+Large
+Do Not Expand
+($8, $12)
+(S18, $9)
+Beta
+Small
+(512, $8)
+(SO, SO)
+Alpha has three choices: DO NOT EXPAND, SMALL, and LARGE. Given Alpha's choice,
+Beta must then choose among DO NOT EXPAND, SMALL, LARGE. For whatever choice
+Alnha makes. Beta will make the choice that maximizes its profit. (These are underlined.)
+Given Beta's expected choices, Alpha's optimal choice is LARGE.
+matrix in Table 1.4. We leave it to the reader to verify that the Nash equilibrium in
+this game is (SMALL, SMALL).
+But now suppose that Alpha seeks to preempt Beta by making its capacity decision
+a year before Beta's. Thus, by the time Beta makes its decision, it will have observed
+Alpha's choice and must adjust its decision making accordingly.'
+12 We can represent
+the dynamics of this decision-making process by the game tree in Figure 1.16.
+In analyzing this game tree, we see what is known as a subgame perfect Nash
+equilibrium (SPNE). In an SPNE, each player chooses an optimal action at each
+stage in the game that it might conceivably reach and believes that all other players
+will behave in the same way.
+To derive the SPNE, we use the so-called fold-back method: We start at the end
+of the tree, and for each decision node (represented by squares), we find the optimal
+decision for the firm situated at that node. In this example, we must find Beta's opti-
+mal decision for each of the three choices Alpha might make: DO NOT EXPAND,
+SMALL, and LARGE. By folding back the tree in this fashion, we assume that Alpha
+anticipates that Beta will choose a profit-maximizing response to any strategic move
+Alpha might make. Given these expectations, we can then determine Alpha's optimal
+strategy. We do so by mapping out the profit that Alpha gets as a result of each
+option it might choose, given that Beta responds optimally. The fold-back analysis
+tells us the following:
+• If Alpha chooses DO NOT EXPAND, then given Beta's optimal reaction,
+Alpha's profit will be $15 million.
+• If Alpha chooses SMALL, then given Beta's optimal reaction, Alpha's profit
+will be $16 million.
+38 • Chapter 1 • Basie Microeconomic Principles
+• If Alpha chooses LARGE, then given Beta's optimal reaction, Alpha's profit
+will be $18 million.
+The SPNE is thus for Alpha to choose LARGE. Beta responds by choosing DO
+NOT EXPAND.
+Note that the outcome of the sequential-move game differs significantly from the
+outcome of the simultaneous-move game. Indeed, the outcome involves a strategy for
+Alpha (LARGE) that would be dominated if Alpha and Beta made their capacity
+choices simultaneously. Why is Alpha's behavior so different when it can move
+first? Because in the sequential game, the firm's decision problems are linked through
+time: Beta can see what Alpha has done, and Alpha can thus count on a rational
+response by Beta to whatever action it chooses. In the sequential-move game, Alpha's
+capacity choice has commitment value; it forces Beta into a corner. By committing to
+a large-capacity expansion, Alpha forces Beta into a position where Beta's best
+response yields the outcome that is most favorable to Alpha. By contrast, in the
+simultaneous-move game, Beta cannot observe Alpha's decision, so the capacity
+decision no longer has commitment value for Alpha. Because of this, the choice of
+LARGE by Alpha is not nearly as compelling as it is in the sequential game. We dis-
+cuss commitment in detail in Chapter 9.
+CHAPTER SUMMARY
+• The total cost function represents the relationship between a firm's total costs and the
+total amount of output it produces in a given time period.
+•
+Total costs consist of fixed costs, which do not vary with output, and variable costs.
+Average costs equal total costs divided by total output. Marginal costs represent the
+additional cost of producing one more unit of output. Average costs are minimized at
+the point where average costs equal marginal cost.
+•
+Sunk costs are costs that cannot be recovered if the firm stops producing or otherwise
+changes its decisions.
+•
+Economic costs and economic profits depend on the costs and profits the firm would have
+realized had it taken its next best opportunity. These are distinct from costs and profits
+reported on accounting statements.
+•
+The demand curve traces the amount that consumers are willing to pay for a good at
+different prices, all else equal. Most demand curves are downward sloping. The price elas-
+ticity of demand measures the percentage change in the quantity purchased for a 1 percent
+change in price, all else equal.
+•
+Firms facing downward-sloping demand curves must reduce price to increase sales. A firm's
+marginal revenue is the additional revenue generated when the firm sells one more unit.
+Firms maximize profits by producing up to the point where the marginal revenue from an
+additional sale exactly equals the marginal cost.
+•
+In a perfectly competitive market, there are many firms selling identical products to many
+consumers. No firm can influence the price it charges.
+The supply curve in a perfectly competitive market is the sum total of each firm's marginal
+cost curve; it represents the total quantity that firms are willing to sell at any given price.
+The market demand curve represents the total quantity that consumers are willing to pur-
+chase at any given price.
+94 546069 8
+Endnotes • 39
+
+•
+In a competitive equilibrium, the market price and quantity are given by the point where
+the supply curve intersects the demand curve
+In the competitive equilibrium, firms produce up to the point where price equals marginal
+cost. In the long run, entry forces prices to equal the minimum average cost of production.
+Game theoretic models explicitly account for how one firm's decisions may affect the
+decisions of its rivals. In a Nash equilibrium, all firms are making optimal choices,
+given the choices of their rivals.
+Matrix forms may be used to analyze games in which firms make simultaneous choices.
+Extensive forms are more appropriate when analyzing games when choices are sequential.
+OUESTIONS
+1. What are the distinctions among fixed costs, sunk costs, variable costs, and marginal costs?
+If the average cost curve is increasing, must the marginal cost curve lie above the average
+cost curve? Why or why not?
+Why are long-run average cost curves usually at or below short run-average cost curves?
+What is the difference between economic profit and accounting profit? Why should man-
+agers focus mainly on economic profits? Why do you suppose managers often focus on
+accounting profits?
+5. A Giffen good violates the law of demand; when its price increases, the quantity demanded
+increases, all else equal. (The "all else equal" condition rules out situations where consum-
+ers judge the quality or prestige of a good by its price.) Economists who try to identify
+Giffen goods often examine diet staples like rice and potatoes, and focus on periods of
+famine. Why might staple foods be Giffen goods under such circumstances?
+6. Explain why we might expect the price elasticity of demand for nursing home care to be
+more negative than the price elasticity of demand for heart surgery.
+Why is marginal revenue less than total revenue?
+8. Why does the elasticity of demand affect a firm's optimal price?
+9. Explain why long-run prices in a perfectly competitive market tend toward the minimum
+average cost of production.
+10. Is the prisoners' dilemma always a Nash equilibrium? Is a Nash equilibrium always a pris-
+oners' dilemma? Explain.
+11. Does the equilibrium outcome of a game in extensive form depend on who moves first?
+Explain.
+ENDNOTES
+'This example is drawn from Richard Tedlow's history of the soft drink industry in
+his book New and Improved: The Story of Mass Marketing in America, New York, Basic
+Books, 1990.
+2We will discuss this relationship in Chapter 8.
+'The third, fourth, and fifth sections of this chapter are the most "technical." Instructors
+not planning to cover Chapters 8-11 can skip this material.
+'The first part of this section closely follows the presentation of cost functions on pp. 42-
+45 of Dorfian, R., Prices and Markets, 2nd ed., Englewood Cliffs, NJ, Prentice-Hall, 1972.
+Students sometimes confuse total costs with average (i.e., per unit) costs, noting that
+for many real-world firms "costs" seem to go down as output goes up. As we will see, average
+40 • Chapter 1 • Basic Microeconomic Principles
+costs could indeed go down as output goes up. The total cost function, however, always
+increases with output.
+This term was coined by Thomas Nagle in The Strategy and Tactics of Pricing, Englewood
+Cliffs, NJ, Prentice-Hall, 1987.
+"Some authors call these programmed costs. See, for example, Rados, D. L., Pushing the
+Numbers im Marketing: A Real-World Guide to Essential Financial Analysis, Westport, CT,
+Quorum Books, 1992.
+*It is customary to put the minus sign in front, so that we convert what would ordinarily be
+a negative number (because AQ and AP have opposite signs) into a positive one.
+"One complication should be noted: A given product's price elasticity of demand is
+not the same at all price levels. This means that an elasticity that is estimated at a price level
+of, say, $10 would be useful in predicting the impact of an increase in price to $11, but it
+would not accurately predict the impact of an increase to, say, $50, a price that is far
+outside the neighborhood of the price at which the elasticity was originally estimated. This
+is due to the properties of percentages, which require dividing by base amounts. If the
+price is so high that the quantity demanded is close to zero, even small absolute increases
+in quantity can translate into huge percentage increases.
+1°The use of this formula is subject to the caveat expressed earlier about the use of elas-
+ticities. It is useful for contemplating the effects of "incremental" price changes rather
+than dramatic price changes.
+This result is subject to the following qualification. If certain key inputs are scarce,
+the entry of additional firms bids up the prices of these inputs. The firm's average and
+marginal cost functions then shift upward; in the long run, the market price will settle
+down at a higher level. An industry in which this happens is known as an increasing-cost
+industry. The case we focus on in the text is known as a constant-cost industry.
+1?To keep the example as simple as possible, we will assume only two stages of
+decision making: Alpha makes its choice first, and then Beta responds. We do not consider
+the possibility that Alpha might respond to the capacity decision that Beta makes.
+
